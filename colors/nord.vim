@@ -205,8 +205,8 @@ call s:hi("IncSearch", s:nord1_gui, s:nord8_gui, s:nord1_term, s:nord8_term, "un
 call s:hi("Search", s:nord1_gui, s:nord8_gui, s:nord1_term, s:nord8_term, "NONE", "")
 
 "+--- Tabs ---+
-call s:hi("TabLine", s:nord4_gui, s:nord1_gui, "NONE", "NONE", "NONE", "")
-call s:hi("TabLineFill", s:nord4_gui, s:nord1_gui, "NONE", "NONE", "NONE", "")
+call s:hi("TabLine", s:nord3_gui, "NONE", "NONE", "NONE", "NONE", "")
+call s:hi("TabLineFill", s:nord3_gui, "NONE", "NONE", "NONE", "NONE", "")
 call s:hi("TabLineSel", s:nord8_gui, s:nord1_gui, "NONE", "NONE", "NONE", "")
 
 "+--- Window ---+
